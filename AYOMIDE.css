@@ -1,0 +1,14 @@
+body{
+    background-color: brown;
+    color: pink;
+}
+.heading{
+    text-align: center;
+}
+#rice{
+    color: blue;
+    background-color: white;
+}
+.things{
+    background-color: blueviolet;
+}

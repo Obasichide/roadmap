@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+    color: white;
+}
+.heading{
+    text-align: center;
+}
+#food{
+    color: pink;
+    background-color: blue;
+}
+.list{
+    background-color: red;
+}
